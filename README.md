@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Campus Safety Companion App (Hackathon Project), and an E-commerce fullstack project**
 
-- 🌱 I’m currently learning **Software Design Patterns, C#, ASP.NET, SQL & Database Design, JavaScript, HTML & CSS**
+- 🌱 I’m currently learning **Software Design Patterns, C#, ASP.NET, SQL, Database Design, JavaScript, HTML & CSS**
 
 - 👯 I’m looking to collaborate on **Open-source web applications and student-focused software projects**
 
