@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tsepo Mnxali</h1>
-<h3 align="center">A passionate Full-Stack Developer and Information Technology Student</h3>
+<h3 align="center">A passionate Full-Stack Developer and IT Student</h3>
 
 - 🔭 I’m currently working on **Campus Safety Companion App (Hackathon Project), and an E-commerce fullstack project**
-
 - 🌱 I’m currently learning **Software Design Patterns, C#, ASP.NET, SQL, Database Design, JavaScript, HTML & CSS**
-
 - 👯 I’m looking to collaborate on **Open-source web applications and student-focused software projects**
-
 - 🤝 I’m looking for help with **Building scalable full-stack applications and UI/UX design**
-
 - 💬 Ask me about **C#, SQL, Full-Stack Development, Database Design, Software Design Patterns, Programming Fundamentals**
-
 - 📫 How to reach me **tsepotp76@gmail.com**
-
 - ⚡ Fun fact **I'm always learning something new in tech**
 
 <h3 align="left">Connect with me:</h3>
