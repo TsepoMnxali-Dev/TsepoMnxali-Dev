@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Open-source web applications and student-focused software projects**
 - 🤝 I’m looking for help with **Building scalable full-stack applications and UI/UX design**
 - 💬 Ask me about **C#, SQL, Full-Stack Development, Database Design, Software Design Patterns, Programming Fundamentals**
-- 📫 How to reach me **tsepotp76@gmail.com**
+- 📫 How to reach me **tsepotp76@gmail.com** or **s227075749@mandela.ac.za**
 - ⚡ Fun fact **I'm always learning something new in tech**
 
 <h3 align="left">Connect with me:</h3>
