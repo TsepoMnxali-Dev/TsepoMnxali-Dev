@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer and IT Student</h3>
 
 - 🔭 I’m currently working on **Campus Safety App (Hackathon Project), and an E-commerce fullstack project**
-- 🌱 I’m currently learning **Software Design Patterns, C#, ASP.NET, SQL, Database Design, JavaScript, HTML & CSS**
+- 🌱 I’m currently learning **Software Design Patterns, C#, ASP.NET, SQL, Database Design , HTML & CSS**
 - 👯 I’m looking to collaborate on **Open-source web applications and student-focused software projects**
 - 🤝 I’m looking for help with **Building scalable full-stack applications and UI/UX design**
 - 💬 Ask me about **C#, SQL, Full-Stack Development, Database Design, Software Design Patterns, Programming Fundamentals**
@@ -26,12 +26,6 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
