@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Campus Safety App (Hackathon Project), and an E-commerce fullstack project**
 - 🌱 I’m currently learning **Software Design Patterns, C#, ASP.NET, SQL, Database Design , HTML & CSS**
-- 🎓 I’m currently looking for **graduate programmes and entry-level opportunities in software engineering**
+- 🎓 I’m currently looking for **Graduate programmes and entry-level opportunities in software engineering**
 - 🤝 I’m looking for help with **Building scalable full-stack applications and UI/UX design**
 - 💬 Ask me about **C#, SQL, Full-Stack Development, Database Design, Software Design Patterns, Programming Fundamentals**
 - 📫 How to reach me **tsepotp76@gmail.com** or **s227075749@mandela.ac.za**
