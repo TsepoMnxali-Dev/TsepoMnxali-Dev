@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tsepo Mnxali</h1>
-<h3 align="center">A passionate Full-Stack Developer and IT Student</h3>
+<h3 align="center">A passionate Software Developer and IT Student</h3>
 
 - 🔭 I’m currently working on **Campus Safety App (Hackathon Project), and an E-commerce fullstack project**
 - 🌱 I’m currently learning **Software Design Patterns, C#, ASP.NET, SQL, Database Design , HTML & CSS**
-- 👯 I’m looking to collaborate on **Open-source web applications and student-focused software projects**
+- 🎓 I’m currently looking for **graduate programmes and entry-level opportunities in software engineering**
 - 🤝 I’m looking for help with **Building scalable full-stack applications and UI/UX design**
 - 💬 Ask me about **C#, SQL, Full-Stack Development, Database Design, Software Design Patterns, Programming Fundamentals**
 - 📫 How to reach me **tsepotp76@gmail.com** or **s227075749@mandela.ac.za**
